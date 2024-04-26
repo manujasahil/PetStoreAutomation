@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-26T12:34:22 IST" name="Suite" finished-at="2024-04-26T12:34:33 IST" duration-ms="10560">
+    <groups>
+    </groups>
+    <test started-at="2024-04-26T12:34:22 IST" name="Test" finished-at="2024-04-26T12:34:33 IST" duration-ms="10560">
+      <class name="api.test.UserTests2">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests2@63a65a25]" started-at="2024-04-26T12:34:22 IST" name="setupData" finished-at="2024-04-26T12:34:23 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests2@63a65a25]" started-at="2024-04-26T12:34:23 IST" name="testPostUser" finished-at="2024-04-26T12:34:28 IST" duration-ms="5613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testgetUserbyUsername()[pri:2, instance:api.test.UserTests2@63a65a25]" started-at="2024-04-26T12:34:28 IST" name="testgetUserbyUsername" finished-at="2024-04-26T12:34:30 IST" duration-ms="1492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetUserbyUsername -->
+        <test-method signature="testupdateUserbyUsername()[pri:3, instance:api.test.UserTests2@63a65a25]" started-at="2024-04-26T12:34:30 IST" name="testupdateUserbyUsername" finished-at="2024-04-26T12:34:31 IST" duration-ms="1427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateUserbyUsername -->
+        <test-method signature="testdeletUserbyUsername()[pri:4, instance:api.test.UserTests2@63a65a25]" started-at="2024-04-26T12:34:31 IST" name="testdeletUserbyUsername" finished-at="2024-04-26T12:34:33 IST" duration-ms="1539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeletUserbyUsername -->
+      </class> <!-- api.test.UserTests2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
